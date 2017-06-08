@@ -1,2 +1,3 @@
+VarnaLab Wiki demo project for https://varnalab.gitbooks.io/wiki
 
-# VarnaLab Wiki
+official wiki is https://wiki.varnalab.org/
