@@ -1,7 +1,6 @@
 
 # Summary
 
-- Инсталиране на Софтуер
-  - [Нещо интересно](docs/01.md)
-- Хостинг
-  - [Я да видим](docs/02.md)
+- [Начало](README.md)
+- [Как да използвам това Wiki](docs/howto.md)
+- [GitHub Проекти](docs/projects.md)

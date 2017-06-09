@@ -1,3 +1,4 @@
-VarnaLab Wiki demo project for https://varnalab.gitbooks.io/wiki
 
-official wiki is https://wiki.varnalab.org/
+# VarnaLab Wiki
+
+Официалното Wiki се намира на https://wiki.varnalab.org
