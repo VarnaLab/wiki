@@ -44,9 +44,11 @@
 
 # Други
 
+- [node-organic](https://github.com/VarnaLab/node-organic)
+  - Organic Framework
+- [varnalab-design](https://github.com/VarnaLab/varnalab-design)
+  - Всички design файлове на VarnaLab
 - [varnalab-cli](https://github.com/VarnaLab/varnalab-cli)
   - NodeJS CLI инструмент за менажиране на Mikrotik рутера в лаба
 - [wiki](https://github.com/VarnaLab/wiki)
   - Това wiki, хостнато на https://varnalab.gitbooks.io/wiki/
-- [node-organic](https://github.com/VarnaLab/node-organic)
-  - Organic Framework
