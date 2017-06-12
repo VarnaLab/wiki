@@ -6,8 +6,10 @@
 - [varnalab.org](https://github.com/VarnaLab/varnalab.org)
   - Настоящата версия на сайта имплементирана с [node-organic](https://github.com/VarnaLab/node-organic)
 - [varnalab-data](https://github.com/VarnaLab/varnalab-data)
-  - Експорт на събитията и статиите публикувани на varnalab.org, както и всички събития от Facebook групата и Facebook страницата
+  - Експорт на събитията и статиите публикувани на varnalab.org
+  - Експорт на всички събития от Facebook групата и Facebook страницата
   - Данните са в JSON формат и могат да бъдат конвертирани към всяка една база данни
+  - Експорт на финансовият отчет във CSV формат
 - [open-data-explorer](https://github.com/VarnaLab/open-data-explorer)
   - Тестово приложение което консумира данните от [varnalab-data](https://github.com/VarnaLab/varnalab-data)
   - Представените данни са snapshot представляващ последният commit във [varnalab-data](https://github.com/VarnaLab/varnalab-data)
