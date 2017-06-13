@@ -10,7 +10,7 @@
   - Експорт на всички събития от Facebook групата и Facebook страницата
   - Данните са в JSON формат и могат да бъдат конвертирани към всяка една база данни
   - Експорт на финансовият отчет във CSV формат
-- [open-data-explorer](https://github.com/VarnaLab/open-data-explorer)
+- [open-data-explorer](https://github.com/VarnaLab/open-data-explorer) / [live](https://varnalab.github.io/open-data-explorer/)
   - Тестово приложение което консумира данните от [varnalab-data](https://github.com/VarnaLab/varnalab-data)
   - Представените данни са snapshot представляващ последният commit във [varnalab-data](https://github.com/VarnaLab/varnalab-data)
 - [varnalab.org-generator](https://github.com/VarnaLab/varnalab.org-generator)
@@ -52,5 +52,7 @@
   - Всички design файлове на VarnaLab
 - [varnalab-cli](https://github.com/VarnaLab/varnalab-cli)
   - NodeJS CLI инструмент за менажиране на Mikrotik рутера в лаба
+- [varnalab-finance](https://github.com/VarnaLab/varnalab-finance) / [live](https://varnalab.github.io/varnalab-finance/)
+  - Финансови статистики за VarnaLab
 - [wiki](https://github.com/VarnaLab/wiki)
   - Това wiki, хостнато на https://varnalab.gitbooks.io/wiki/
