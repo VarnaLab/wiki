@@ -54,5 +54,6 @@
   - NodeJS CLI инструмент за менажиране на Mikrotik рутера в лаба
 - [varnalab-finance](https://github.com/VarnaLab/varnalab-finance) / [live](https://varnalab.github.io/varnalab-finance/)
   - Финансови статистики за VarnaLab
+  - Този модул консумира финансовите данни от [varnalab-data](https://github.com/VarnaLab/varnalab-data)
 - [wiki](https://github.com/VarnaLab/wiki)
   - Това wiki, хостнато на https://varnalab.gitbooks.io/wiki/
