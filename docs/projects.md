@@ -34,7 +34,7 @@
   - cronjob който проверява за нови съобщения в Twitter акаунта на VarnaLab и ги изпраща към Slack каналите: [varnalab.slack.com](https://varnalab.slack.com) и [itclubs.slack.com](https://itclubs.slack.com)
 - [slack-incoming-trello](https://github.com/VarnaLab/slack-incoming-trello)
   - cronjob който проверява за нови съобщения в Trello организацията на VarnaLab и ги изпраща към Slack каналите: [varnalab.slack.com](https://varnalab.slack.com) и [itclubs.slack.com](https://itclubs.slack.com)
-- [slack-command-whois](https://github.com/VarnaLab/slack-command-whois)
+- [varnalab-whois](https://github.com/VarnaLab/varnalab-whois)
   - cronjob който проверява за свързаните машини в мрежата на VarnaLab
   - /whois командата се използва в Slack каналите: [varnalab.slack.com](https://varnalab.slack.com) и [itclubs.slack.com](https://itclubs.slack.com)
   - Командата работи в комбинация с [varnalab-cli](https://github.com/VarnaLab/varnalab-cli)
