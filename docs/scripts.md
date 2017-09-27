@@ -3,7 +3,7 @@
 
 Скрипт                    | Период         | Описание
 :--                       | :--:           | :--
-[varnalab-whois]          | 3мин           | Взима актуалните потребители в локалната мрежа на VarnaLab
+[varnalab-whois]          | 3мин           | Взима актуалните устройства/потребители в локалната мрежа на VarnaLab
 [varnalab-static]         | 5мин           | Генерира цялото съдържание на varnalab.org под формата на HTML файлове
 [slack-incoming-facebook] | 8мин           | Проверява за нови съобщения във Facebook групата на организацията и ги изпраща в #events канала на VarnaLab в Slack
 [slack-incoming-twitter]  | 9мин           | Проверява за нови съобщения в Twitter акаунта на организацията и ги изпраща в #events канала на VarnaLab в Slack
@@ -17,11 +17,10 @@
 
   [varnalab-whois]: https://github.com/varnalab/varnalab-whois
   [varnalab-static]: https://github.com/varnalab/varnalab-static
+  [varnalab-notifier]: https://github.com/varnalab/varnalab-notifier
+  [varnalab-finance]: https://github.com/varnalab/varnalab-finance
+  [facebook-events-sync]: https://github.com/varnalab/facebook-events-sync
   [slack-incoming-facebook]: https://github.com/varnalab/slack-incoming-facebook
   [slack-incoming-twitter]: https://github.com/varnalab/slack-incoming-twitter
-  [facebook-events-sync]: https://github.com/varnalab/facebook-events-sync
-  [varnalab-notifier]: https://github.com/varnalab/varnalab-notifier
   [slack-incoming-trello]: https://github.com/varnalab/slack-incoming-trello
-  [facebook-events-sync]: https://github.com/varnalab/facebook-events-sync
-  [slack-incoming-quotes]: https://github.com/varnalab/slack-incoming-quotes
-  [varnalab-finance]: https://github.com/varnalab/varnalab-finance
+  [slack-incoming-quotes]: https://github.com/simov/slack-incoming-quotes

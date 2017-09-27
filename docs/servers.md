@@ -13,7 +13,7 @@
 :--                         | :--
 https://varnalab.org        | Официалният сайт на VarnaLab
 https://slack.varnalab.org  | Покани за публичният канал на VarnaLab в Slack
-https://github.varnalab.org | Покани за публичната организация на VarnaLab в Slack
+https://github.varnalab.org | Покани за публичната организация на VarnaLab в GitHub
 https://varnalab.github.io  | Мобилното приложение на VarnaLab
 /whois                      | /whois командата в Slack канала на VarnaLab
 /events                     | /events командата в Slack канала на VarnaLab

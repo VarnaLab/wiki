@@ -4,7 +4,7 @@
 Проект               | Описание
 :--                  | :--
 [node-organic]       | organic software development in nodejs
-[varnalab-cli]       | CLI инструмент на организацията, понастоящем отговорен за заявките към Mikrotik рутера в локалната мрежа на VarnaLab
+[varnalab-cli]       | CLI инструмент на организацията, понастоящем отговорен за whois информацията от Mikrotik рутера в локалната мрежа на VarnaLab
 [website-new-design] | Новият дизайн на varnalab.org
 [varnalab-design]    | Всичко свързано с дизайн около организацията
 [varnalab.github.io] | [Мобилното приложение на VarnaLab][varnalab-mobile]
