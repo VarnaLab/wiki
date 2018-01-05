@@ -11,7 +11,8 @@
 [varnalab-notifier]       | 15мин          | Изпраща известия за нови Facebook събития (добавени чрез горният скрипт) към Google Calendar, Google Groups и Twitter акаунтите на организацията
 [slack-incoming-trello]   | 15мин          | Проверява за нова активност в публичните бордове на VarnaLab в Trello и ги изпраща в #trello канала на VarnaLab в Slack
 [varnalab-events]         | 30мин (update) | Проверява за промени по вече добавените Facebook събития
-[varnalab-finance]        | всеки ден в 12:00 вечерта | Опреснява финансовата статистика за текущата година
+[varnalab-finance]        | всеки ден в 12:00 вечерта (Изключен) | Опреснява финансовата статистика за текущата година
+[varnalab-money]          | всеки ден в 12:00 вечерта | Прави export на касата в inv.bg
 [slack-incoming-quotes]   | Понеделник, Сряда, Петък 10:15 сутринта | Изпраща цитати в #spam канала на VarnaLab в Slack
 
 
@@ -19,6 +20,7 @@
   [varnalab-static]: https://github.com/varnalab/varnalab-static
   [varnalab-notifier]: https://github.com/varnalab/varnalab-notifier
   [varnalab-finance]: https://github.com/varnalab/varnalab-finance
+  [varnalab-money]: https://github.com/varnalab/varnalab-money
   [varnalab-events]: https://github.com/varnalab/varnalab-events
   [slack-incoming-facebook]: https://github.com/varnalab/slack-incoming-facebook
   [slack-incoming-twitter]: https://github.com/varnalab/slack-incoming-twitter
